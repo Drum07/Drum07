@@ -1,7 +1,7 @@
 # ⚡ Jean Paul da Silva
 
 <p align="center">
-  <img src="[[./assets/profile.png](https://i.pinimg.com/originals/f5/d3/73/f5d37388ddfcc9ba2140275096bb22a3.jpg](https://i.pinimg.com/originals/f5/d3/73/f5d37388ddfcc9ba2140275096bb22a3.jpg))" width="320" alt="Jean Paul da Silva" />
+  <img src="https://i.pinimg.com/originals/f5/d3/73/f5d37388ddfcc9ba2140275096bb22a3.jpg" width="320" alt="Jean Paul da Silva" />
 </p>
 
 <p align="center">
