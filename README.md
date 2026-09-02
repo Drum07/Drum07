@@ -1,45 +1,45 @@
-## Profile snapshot
+## Visão geral do perfil
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=cyberpunk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66887455%3Fu%3D1f43266d6b798fce2266150d7c253abc30afeb74%26v%3D4" alt="cyberpunk hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=cyberpunk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66887455%3Fu%3D1f43266d6b798fce2266150d7c253abc30afeb74%26v%3D4" alt="visual principal do perfil cyberpunk" />
 </p>
 
-**R3n0** · Frontend or full-stack engineer
+**R3n0** · Engenheiro Frontend ou Full-Stack
 
-## About
+## Sobre mim
 
-Application Security Research // Bug Bounty // Legal Hacking
+Pesquisa em Segurança de Aplicações // Bug Bounty // Hacking Ético
 
-- 📍 Based in **Russian Federation, Moscow**
-- 🏢 Working at **@SN-004 @cyberd3lia **
-- 🌐 [Website](https://r3n0.ru)
-- 👥 **6** followers · **3** following
+* 📍 Localizado em **Moscou, Federação Russa**
+* 🏢 Trabalhando na **@SN-004 @cyberd3lia**
+* 🌐 [Website](https://r3n0.ru)
+* 👥 **6** seguidores · **3** seguindo
 
-## Proof at a glance
+## Resumo
 
 <table>
-<tr><td align="center"><b>3</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>21</b><br/><sub>contributions</sub></td></tr>
+<tr><td align="center"><b>3</b><br><sub>repositórios</sub></td><td align="center"><b>0</b><br><sub>estrelas</sub></td><td align="center"><b>21</b><br><sub>contribuições</sub></td></tr>
 </table>
 
-## Core toolkit
+## Principais tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## Selected work
+## Projetos em destaque
 
-- **[cyberpunk](https://github.com/cyberpunk/cyberpunk)** — [    R3n0 | Info    ] · ⭐ 0
-- **[cyberpunk.github.io](https://github.com/cyberpunk/cyberpunk.github.io)** — [    R3n0 | Site    ] · ⭐ 0
-- **[b374k](https://github.com/cyberpunk/b374k)** — PHP Webshell with handy features · ⭐ 0
-- **[nuclei](https://github.com/cyberpunk/nuclei)** — Fast and customizable vulnerability scanner based on simple YAML based DSL. · ⭐ 0
-- **[sqlmap](https://github.com/cyberpunk/sqlmap)** — Automatic SQL injection and database takeover tool · ⭐ 0
-- **[wpscan](https://github.com/cyberpunk/wpscan)** — WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. · ⭐ 0
+* **[cyberpunk](https://github.com/cyberpunk/cyberpunk)** — [    R3n0 | Informações    ] · ⭐ 0
+* **[cyberpunk.github.io](https://github.com/cyberpunk/cyberpunk.github.io)** — [    R3n0 | Site    ] · ⭐ 0
+* **[b374k](https://github.com/cyberpunk/b374k)** — Webshell PHP com diversos recursos · ⭐ 0
+* **[nuclei](https://github.com/cyberpunk/nuclei)** — Scanner de vulnerabilidades rápido e personalizável baseado em uma DSL simples utilizando YAML. · ⭐ 0
+* **[sqlmap](https://github.com/cyberpunk/sqlmap)** — Ferramenta automatizada para testes de SQL Injection e segurança de bancos de dados · ⭐ 0
+* **[wpscan](https://github.com/cyberpunk/wpscan)** — Scanner de segurança para WordPress, desenvolvido para profissionais de segurança e administradores de sites testarem a segurança de seus sistemas. · ⭐ 0
 
-## Let’s connect
+## Vamos nos conectar
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=cyberpunk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66887455%3Fu%3D1f43266d6b798fce2266150d7c253abc30afeb74%26v%3D4" alt="cyberpunk social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=cyberpunk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66887455%3Fu%3D1f43266d6b798fce2266150d7c253abc30afeb74%26v%3D4" alt="visual social do perfil cyberpunk" />
 </p>
 
 <a href="https://github.com/cyberpunk">GitHub</a> · <a href="https://r3n0.ru">Website</a> · <a href="https://x.com/r3n0_tech">X</a>
 
-<p align="center"><sub>R3n0 · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>R3n0 · Perfil pronto para recrutadores, gerado com <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
